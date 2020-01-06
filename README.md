@@ -10,6 +10,7 @@ A dynamic blog system should be complete with all features. This is created with
 <h2> Features of the blog CMS system in PHP with MYSQL database</h2> 
 
  <h3>1. A simple blog from scratch -</h3> Blog interface and admin interface with MYSQL database . There is a complete login system with the hash function. We created a PHP function for hashing the password. A dynamic blog is created from scratch.
+<a href"https://technosmarter.com/php/how-to-create-blog-using-php-and-mysql-database">How to create blog using PHP and MYSQL database?</a>
 
 <h3>2. SEO friendly URLs -</h3>Blog CMS is created with SEO friendly URLs with better resources. This function is created by PHP. 
 We created SEO friendly URLs for blog posts, blog categories, blog pages. It helps more ranking a website. 
