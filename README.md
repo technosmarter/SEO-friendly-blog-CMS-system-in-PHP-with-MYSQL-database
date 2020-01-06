@@ -15,25 +15,39 @@ A dynamic blog system should be complete with all features. This is created with
 
 <h3>2. SEO friendly URLs -</h3>Blog CMS is created with SEO friendly URLs with better resources. This function is created by PHP. 
 We created SEO friendly URLs for blog posts, blog categories, blog pages. It helps more ranking a website. 
+<a href="https://technosmarter.com/php/how-to-create-seo-friendly-url-for-blog-posts-in-php">How to create SEO friendly URL for Blog posts in PHP?</a>
 <h3>3. PHP Blog sidebars -</h3> The CMS(content management system) is created with a sidebar. There are two sidebars one for a public interface and second for the admin interface. 
+<a href="https://technosmarter.com/php/how-to-create-sidebar-in-blog">How to create Sidebar in Blog ?</a>
+
 <h3>4. PHP Blog Recent Posts -</h3> Fetch and display the recent posts. 
-
+<a href="https://technosmarter.com/php/how-to-display-recent-posts-in-blog-using-php">How to display recent posts in Blog using PHP </a>
 <h3>5. PHP Blog Categories -</h3>The blog is made with categories. Admin can create categories. Functionality is created by PHP and MYSQL database. 
-
+<a href="https://technosmarter.com/php/create-categories-in-blog-using-php-and-mysql">Create categories in blog using PHP and MYSQL</a>
 
 <h3>6. PHP Blog Tags -</h3>The blog is made with categories. Admin can create tags. Functionality is created by PHP and MYSQL database. 
+<a href="https://technosmarter.com/php/how-to-create-blog-cms-tags-in-php-and-mysql">How to create blog CMS tags in PHP and MYSQL?</a>
 
 <h3>7.Blog Social share buttons/Icons  -</h3> There are four social share buttons created by PHP and MYSQL database. 
+<a href="https://technosmarter.com/php/create-social-share-buttons-in-the-blog-using-php-and-mysql">Create social share buttons in the blog using PHP and MYSQL </a>
+
 <h3>8.Blog posts Recommended posts  -</h3>Fetch and display the next posts as recommended blog posts using PHP and MYSQL limit. 
+<a href="https://technosmarter.com/php/display-recommended-blog-posts-next-5-rows-data-in-php">Display recommended blog posts | Next 5 rows data in PHP </a>
+
 <h3>9.Blog posts Previous posts  -</h3>Fetch and display previous posts as previous blog posts using PHP and MYSQL limit. 
+<a href="https://technosmarter.com/php/display-previous-blog-posts-using-php-and-mysql">Display previous blog posts using PHP and MYSQL </a>
+
 <h3>10. Blog pages  -</h3>Admin can create blog pages with SEO friendly content and tags.
+<a href="https://technosmarter.com/php/create-pages-in-blog-cms-using-php-and-mysql">Create pages in blog CMS using PHP and MYSQL  </a>
 
 <h3>11. PHP CMS sitemap | Generate sitemap  -</h3> The bog is developed with the sitemap.CMS system generates the site for all blog posts, pages, categories, and tags. It's created with PHP, MYSQL, XML and htaccess file. 
+<a href="https://technosmarter.com/php/generate-sitemap-for-blog-in-php-and-mysql">Generate sitemap for blog in PHP and MYSQL  </a>
 
 <h3>12. Pagination and Search box -</h3> Visitors can search by any keyword. 
+<a href="https://technosmarter.com/php/pagination-and-search-box-in-blog-using-php-and-mysql"> Pagination and search box in blog using PHP and MYSQL </a>
 
 <h3>13.Comment and discussion system -</h3>
 Visitors can comment and discuss below the posts. 
+<a href="https://technosmarter.com/php/comment-and-discussion-system-using-disqus-in-php-blog"> Comment and discussion system using Disqus  </a>
 
 <h3>14.Admin  -</h3> 
 (Create , fetch,update ,delete - user , posts, pages)
