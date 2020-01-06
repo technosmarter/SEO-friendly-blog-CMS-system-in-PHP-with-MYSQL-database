@@ -37,8 +37,3 @@ Visitors can comment and discuss below the posts.
 (Create , fetch,update ,delete - user , posts, pages)
 
 
-
-
-
-2.
-
