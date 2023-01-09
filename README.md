@@ -1,8 +1,8 @@
 # Create SEO friendly blog CMS system in PHP with MYSQL database
 Make a blog CMS in PHP with an MYSQL database. The complete CMS system is created by PHP and MYSQL database with better resources. 
 
+![how-to-create-dynamic-blog-cms-in-php-with-mysql-database](https://user-images.githubusercontent.com/41726733/211266654-0051aa46-3d23-424b-b011-842c958b5a9c.jpg)
 
-<img class="img-center" src="https://technosmarter.com//assets/images/how-to-create-dynamic-blog-cms-in-php-with-mysql-database.jpg"  alt="How to create dynamic blog CMS using PHP and MYSQL database">
 This is a complete blog system in PHP with a MYSQL database. It's a simple blog CMS system from scratch. It's created by PHP programming and MYSQL database.
 
 A dynamic blog system should be complete with all features. This is created with all features using PHP and MYSQL database. It's created from the scratch with source code. Let's discuss the features of Blog CMS in PHP. 
