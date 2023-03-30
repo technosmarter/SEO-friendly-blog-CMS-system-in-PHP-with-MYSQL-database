@@ -67,7 +67,7 @@ Visitors can comment and discuss below the posts.
 # Source Code 
 You can get complete source code from here - 
 <a href="https://technosmarter.com/item/complete-blog-cms-system-in-php-with-mysql-database-php-scripts">Complete Blog CMS system in PHP with MYSQL database | PHP scripts</a>
-More advance complete designed modern blog system - 
+# More advance complete designed modern blog system - ************************
 # Modern blog CMS in PHP with MYSQL database | PHP blog scripts
 ![image](https://user-images.githubusercontent.com/41726733/228764193-00c41c39-6a58-4c20-8a00-c46c197f3315.png)
 
